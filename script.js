@@ -12,4 +12,4 @@ function checkLeapYear(year) {
 // take input
 const year = prompt('Enter a year:');
 
-alert(checkLeapYear(year));
+checkLeapYear(year);
